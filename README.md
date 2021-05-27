@@ -1,2 +1,2 @@
 # Swym
-Swym next.js app
+Swym blitzjs app
