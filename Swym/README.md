@@ -1,2 +1,0 @@
-# Swym
-Swym blitzjs app
